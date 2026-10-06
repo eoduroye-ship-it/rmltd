@@ -33,7 +33,7 @@
     const el=$("#site-footer");if(!el)return;
     el.innerHTML=`<footer><div class="container"><div class="footer-grid">
       <div><img class="footer-logo" src="${C.logo}" alt="${esc(C.agencyName)} logo"><p style="margin-top:14px">Digital growth, smart commerce and practical technology solutions for modern businesses.</p></div>
-      <div><h4>Services</h4><a href="services.html">Social Media Marketing</a><a href="services.html">SEO</a><a href="services.html">Web Design</a><a href="services.html">Web Management</a><a href="services.html">AI Solutions</a></div>
+      <div><h4>Services</h4><a href="services.html"</><a>Social Media Marketing</a><a href="services.html">SEO</a><a href="services.html">Web Design</a><a href="services.html">Web Management</a><a href="services.html">AI Solutions</a></div>
       <div><h4>Explore</h4><a href="shop.html">Shop</a><a href="blog.html">Insights</a><a href="portfolio.html">Portfolio</a><a href="about.html">About</a><a href="contact.html">Contact</a></div>
       <div><h4>Contact</h4><a href="mailto:${C.email}">${C.email}</a><a href="https://wa.me/${C.whatsapp}" target="_blank">WhatsApp</a><a href="${C.portfolio}" target="_blank">Professional Portfolio</a><a href="${C.instagram}" target="_blank">Instagram @royalmultibrainconcepts</a><a href="${C.facebook}" target="_blank">Facebook @royalmultibrainconcepts</a><a href="tel:${C.whatsapp}">${C.phoneDisplay}</a></div>
     </div><div class="copyright"><span>© ${new Date().getFullYear()} ${esc(C.agencyName)}. All rights reserved.</span><span>Static, GitHub Pages-ready website.</span></div></div></footer>`;
