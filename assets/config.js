@@ -1,7 +1,7 @@
 window.RMC_CONFIG = {
   agencyName: "Royal Multibrain Concept",
   owner: "Emmanuel Bangbolu Oduroye",
-  email: "e.oduroye@gmail.com",
+  email: "royalmultibrainconcepts@gmail.com",
   whatsapp: "2347037083804",
   phoneDisplay: "+234 703 708 3804",
   instagram: "https://www.instagram.com/royalmultibrainconcepts/",
