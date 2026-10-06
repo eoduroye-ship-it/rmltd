@@ -20,7 +20,7 @@ A multi-page static website for Royal Multibrain Concept, built with HTML, CSS a
 - Phone / WhatsApp: +234 703 708 3804
 - Instagram: @royalmultibrainconcepts
 - Facebook: @royalmultibrainconcepts
-- Email: e.oduroye@gmail.com
+- Email: royalmultibrainconcepts@gmail.com
 
 ## Pricing approach
 Service starting prices have been positioned competitively against published Nigerian 2026 agency ranges while keeping the offers accessible for SMEs. Final quotes should always depend on scope, deliverables, platforms, content volume and complexity.
